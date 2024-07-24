@@ -5,7 +5,7 @@ const Hero = () => {
         <section className="hero">
             <div className="hero-center">
                 <div className="hero-title">
-                    <h1>Contenful CMS</h1>
+                    <h1>Contentful CMS</h1>
                     <p>
                         This project aims to provide a comprehensive understanding of working with a headless CMS,
                         including setting up a Contentful account and utilizing it to store,
